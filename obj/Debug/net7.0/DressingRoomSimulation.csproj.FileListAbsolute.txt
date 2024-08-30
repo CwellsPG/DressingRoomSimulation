@@ -1,0 +1,14 @@
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\bin\Debug\net7.0\DressingRoomSimulation.exe
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\bin\Debug\net7.0\DressingRoomSimulation.deps.json
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\bin\Debug\net7.0\DressingRoomSimulation.runtimeconfig.json
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\bin\Debug\net7.0\DressingRoomSimulation.dll
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\bin\Debug\net7.0\DressingRoomSimulation.pdb
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.AssemblyInfoInputs.cache
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.AssemblyInfo.cs
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.csproj.CoreCompileInputs.cache
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.dll
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\refint\DressingRoomSimulation.dll
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.pdb
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\DressingRoomSimulation.genruntimeconfig.cache
+C:\Users\goali\Desktop\Purdue\Term5\IN451\DressingRoomSimulation\DressingRoomSimulation\obj\Debug\net7.0\ref\DressingRoomSimulation.dll
